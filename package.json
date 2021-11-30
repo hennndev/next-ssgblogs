@@ -5,15 +5,23 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "serve-json": "json-server --watch db.json --port 4000"
   },
   "dependencies": {
+    "json-server": "^0.17.0",
     "next": "12.0.4",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "sharp": "^0.29.3",
+    "swr": "^1.0.1",
+    "tailwind-scrollbar-hide": "^1.1.6"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.0",
     "eslint": "7.32.0",
-    "eslint-config-next": "12.0.4"
+    "eslint-config-next": "12.0.4",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^2.2.19"
   }
 }

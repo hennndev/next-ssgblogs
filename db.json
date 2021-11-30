@@ -1,0 +1,58 @@
+{
+    "blogs": [
+        {
+            "id": "blog1",
+            "title": "How to Make Bonsai Easily",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Hendra",
+            "imageBlog": "/images/plants1.jpg",
+            "imgProfile": "/images/man2.jpg",
+            "category": "agriculture"
+        },
+        {
+            "id": "blog2",
+            "title": "How to Take Aesthetic Photo with Plant Object",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Hendra",
+            "imageBlog": "/images/plants2.jpg",
+            "imgProfile": "/images/man2.jpg",
+            "category": "photograph"
+        },
+        {
+            "id": "blog3",
+            "title": "How to Take Care of Small Cactus",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Hendra",
+            "imageBlog": "/images/plants3.jpg",
+            "imgProfile": "/images/man2.jpg",
+            "category": "agriculture"
+        },
+        {
+            "id": "blog4",
+            "title": "How to Make Healthy and Taste Salad",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Hendra",
+            "imageBlog": "/images/salad.jpg",
+            "imgProfile": "/images/man2.jpg",
+            "category": "food"
+        },
+        {
+            "id": "blog5",
+            "title": "Most Beautiful Nature in the World",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Akbar",
+            "imageBlog": "/images/nature1.jpg",
+            "imgProfile": "/images/man2.jpg",
+            "category": "nature"
+        },
+        {
+            "id": "blog6",
+            "title": "Best Destination in the World",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Akbar",
+            "imageBlog": "/images/travell1.jpg",
+            "imgProfile": "/images/man2.jpg",
+            "category": "travel"
+        }
+    ]
+}
