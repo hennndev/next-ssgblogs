@@ -5,8 +5,8 @@
             "title": "How to Make Bonsai Easily",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
             "author": "Hendra",
-            "imageBlog": "/images/plants1.jpg",
-            "imgProfile": "/images/man2.jpg",
+            "imageBlog": "plants1.jpg",
+            "imgProfile": "man2.jpg",
             "category": "agriculture"
         },
         {
@@ -14,8 +14,8 @@
             "title": "How to Take Aesthetic Photo with Plant Object",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
             "author": "Hendra",
-            "imageBlog": "/images/plants2.jpg",
-            "imgProfile": "/images/man2.jpg",
+            "imageBlog": "plants2.jpg",
+            "imgProfile": "man2.jpg",
             "category": "photograph"
         },
         {
@@ -23,8 +23,8 @@
             "title": "How to Take Care of Small Cactus",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
             "author": "Hendra",
-            "imageBlog": "/images/plants3.jpg",
-            "imgProfile": "/images/man2.jpg",
+            "imageBlog": "plants3.jpg",
+            "imgProfile": "man2.jpg",
             "category": "agriculture"
         },
         {
@@ -32,8 +32,8 @@
             "title": "How to Make Healthy and Taste Salad",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
             "author": "Hendra",
-            "imageBlog": "/images/salad.jpg",
-            "imgProfile": "/images/man2.jpg",
+            "imageBlog": "salad.jpg",
+            "imgProfile": "man2.jpg",
             "category": "food"
         },
         {
@@ -41,8 +41,8 @@
             "title": "Most Beautiful Nature in the World",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
             "author": "Akbar",
-            "imageBlog": "/images/nature1.jpg",
-            "imgProfile": "/images/man2.jpg",
+            "imageBlog": "nature1.jpg",
+            "imgProfile": "man2.jpg",
             "category": "nature"
         },
         {
@@ -50,8 +50,44 @@
             "title": "Best Destination in the World",
             "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
             "author": "Akbar",
-            "imageBlog": "/images/travell1.jpg",
-            "imgProfile": "/images/man2.jpg",
+            "imageBlog": "travell1.jpg",
+            "imgProfile": "man2.jpg",
+            "category": "travel"
+        },
+        {
+            "id": "blog7",
+            "title": "How to Grow Up Your Business in 1 Year",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Hendra",
+            "imageBlog": "business.jpg",
+            "imgProfile": "man2.jpg",
+            "category": "business"
+        },
+        {
+            "id": "blog8",
+            "title": "10 Tips for Healthy Eating",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Hendra",
+            "imageBlog": "food1.jpg",
+            "imgProfile": "man2.jpg",
+            "category": "food"
+        },
+        {
+            "id": "blog9",
+            "title": "Robotics Technology Always Grow Up",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Hendra",
+            "imageBlog": "tech1.jpg",
+            "imgProfile": "man2.jpg",
+            "category": "technology"
+        },
+        {
+            "id": "blog10",
+            "title": "12 Best Destination in Indonesia",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nisl sapien, pellentesque mattis arcu a, viverra vestibulum felis. Vivamus semper eros sit amet turpis tempus, nec ultricies ligula rutrum. Ut in pharetra mauris, commodo varius nisi. Nunc viverra elit eget tortor iaculis rutrum. Cras molestie dolor non commodo fringilla. Maecenas.Generated 1 paragraph, 50 words, 342 bytes of Lorem Ipsum",
+            "author": "Hendra",
+            "imageBlog": "bali.jpg",
+            "imgProfile": "man2.jpg",
             "category": "travel"
         }
     ]

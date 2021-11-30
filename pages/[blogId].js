@@ -16,7 +16,7 @@ const BlogDetail = ({blog}) => {
             ) : (
                 <>
                     <div className="w-full h-[200px]  sm:h-[400px] relative">
-                        <Image src={blog[0]?.imageBlog} layout="fill" objectFit="cover"/>
+                        <Image src={`/images/${blog[0]?.imageBlog}`} layout="fill" objectFit="cover"/>
                             
                     </div>
                     <h1 className="mt-5 font-medium text-3xl text-center">{blog[0]?.title}</h1>
